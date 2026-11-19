@@ -61,16 +61,47 @@
 
 > Twizel 為定點放射基地，距普卡基湖約 40 km（30 分鐘）、庫克山村約 65 km（1h），可深度遊覽庫克山與普卡基湖。
 
-#### 推薦景點
+#### 每日行程
 
-| 景點 | 距離 | 建議遊玩時間 |
-|---|---|---|
-| 普卡基湖（Lake Pukaki）+ Peter's Lookout | 40 km｜車程 30 分鐘 | 1-1.5h |
-| Pukaki Visitor Centre | 45 km｜車程 35 分鐘 | 30-45 分鐘 |
-| 庫克山村落（Aoraki/Mt Cook Village） | 65 km｜車程 1h | 半日-全日 |
-| Hooker Valley Track（庫克山） | 65 km｜車程 1h | 3-4h（往返步道） |
-| Tasman Glacier Viewpoint（塔斯曼冰川觀景點） | 70 km｜車程 1h | 1-1.5h |
-| Lake Pukaki 東岸探索 | 40-60 km｜車程 30-45 分鐘 | 1-2h |
+##### 12/8（週一）蒂卡波 → 普卡基湖 → Twizel
+
+| 時段 | 行程 | 距離/車程 | 備註 |
+|---|---|---|---|
+| 10:00 | Tekapo 退房出發 | — | 從前一晚 Lake Tekapo 住宿出發 |
+| 10:30 | 普卡基湖（Lake Pukaki）+ Peter's Lookout | 40 km｜車程 30 分鐘 | 藍色牛奶湖拍照、眺望庫克山 |
+| 11:30 | Pukaki Visitor Centre | 5 km｜車程 5 分鐘 | 30-45 分鐘，展覽 + 咖啡 |
+| 12:30 | Lake Pukaki 東岸探索 | 沿湖岸 | 1-1.5h，沿途停靠拍照 |
+| 14:00 | 抵達 Twizel 入住 | 15 km｜車程 15 分鐘 | 153 MacKenzie Drive |
+| 15:00 | Twizel 小鎮逛逛 / 休息 | 步行 | 補給、超市採購 |
+| 17:00 | 晚餐 + 休息 | — | 早早休息備戰隔日冰川行程 |
+
+##### 12/9（週二）胡克山谷步道（Hooker Valley Track）
+
+| 時段 | 行程 | 距離/車程 | 備註 |
+|---|---|---|---|
+| 07:00 | Twizel 出發 | — | 早出發避開人潮 |
+| 08:00 | 抵達 Hooker Valley Track 起點（White Horse Hill Campground） | 65 km｜車程 1h | 步道起點停車場 |
+| 08:15 | Hooker Valley Track 健行 | — | 3-4h 往返（約 10 km），經吊橋 ×3、Hooker Glacier 湖、冰山漂礫、庫克山近距離眺望 |
+| 12:00 | 返回起點 | — | 休息、補水 |
+| 12:30 | 午餐（庫克山村 Hermitage 或自備） | 5 km｜車程 5 分鐘 | 1h |
+| 13:30 | Tasman Glacier Viewpoint（塔斯曼冰川觀景點） | 5 km｜車程 5 分鐘 | 1-1.5h，往返步道眺望冰川 |
+| 15:00 | 返回 Twizel | 70 km｜車程 1h | 途中可再停普卡基湖拍照 |
+| 16:00 | Twizel 休息 | — | 補給水分、休息 |
+| 18:00 | 晚餐 + 休息 | — | 早早休息備戰隔日直升機健行 |
+
+##### 12/10（週三）塔斯曼冰川直升機健行（Tasman Glacier Heli-Hike）→ 退房前往 Queenstown
+
+> 直升機健行為天氣依賴行程，12/10 為預留日。若 12/9 天氣允許可提前執行，12/10 則改為 Hooker Valley 或其他備案。
+
+| 時段 | 行程 | 距離/車程 | 備註 |
+|---|---|---|---|
+| 07:00 | Twizel 出發 | — | 早出發，預留時間 |
+| 08:00 | 抵達庫克山村（Aoraki/Mt Cook Village） | 65 km｜車程 1h | 報到直升機健行行程 |
+| 08:30 | 塔斯曼冰川直升機健行（Heli-Hike） | — | 約 3-4h（含飛行 + 冰上健行），需預先預訂 |
+| 12:30 | 午餐（庫克山村內） | — | 建議 Hermitage Hotel 餐廳 |
+| 13:30 | 返回 Twizel 退房 | 65 km｜車程 1h | 14:00 前退房 |
+| 14:00 | Twizel 出發前往 Queenstown | — | 經 SH8 → SH6，約 200 km |
+| 17:00 | 抵達 Queenstown 入住 | 200 km｜車程 3h | 26 McKerrow Place 26B |
 
 ---
 
