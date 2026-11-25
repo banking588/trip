@@ -22,7 +22,7 @@
 - **入住**：12/6 15:00
 - **退房**：12/7 10:00
 - **地點**：基督城
-- **備註**：於 trip.com 訂房；住宿在市中心，所有景點步行可達
+- **備註**：124 Sherborne Street, St Albans, Christchurch, Canterbury, 8014, New Zealand
 
 #### 推薦景點
 
