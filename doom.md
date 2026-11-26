@@ -229,7 +229,7 @@
 - **退房**：12/15 10:00
 - **地址**：236 Gibbston Highway, RD1, Queenstown 9371
 - **網站**：https://kinross.nz/
-- **備註**：Kinross 為 Gibbston Valley 酒庄區內的莊園住宿，可品酒、住宿一體。
+- **備註**：2300 Gibbston Highway (State Highway 6), Gibbston Valley 9371, New Zealand 酒庄區內的莊園住宿，可品酒、住宿一體。
 
 > Te Anau 返回皇后鎮酒庄區住宿，隔天前往但尼丁。
 
